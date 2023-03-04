@@ -1,1 +1,1 @@
-# downloads
+A couple of simple scripts for downloading free programs from official sites
